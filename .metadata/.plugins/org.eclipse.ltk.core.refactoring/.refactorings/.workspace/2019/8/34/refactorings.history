@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 13 resources" deleteContents="true" description="Delete 13 resources" element1="/activation" element10="/ojdbc6" element11="/taglibs-standard-impl-1.2.5" element12="/taglibs-standard-jstlel-1.2.5" element13="/taglibs-standard-spec-1.2.5" element2="/commons-fileupload-1.2.2" element3="/commons-io-1.4" element4="/jackson-annotations-2.8.0" element5="/jackson-core-2.8.0" element6="/jackson-databind-2.8.0" element7="/KH_semi" element8="/mail" element9="/mybatis-3.4.6" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="13" stamp="1566187835313"/>
+</session>
